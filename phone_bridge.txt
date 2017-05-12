@@ -1,0 +1,30 @@
+Hello {employee_name},
+
+Your conference bridge number is {bridge_number}
+
+Guest Pin: {guest_pin}
+Host Pin: {host_pin}
+
+To access your room reservation perform the following steps:
+
+If you are hosting the conference:
+1) Dial into the conference bridge number {bridge_number}
+2) Input your host pin {host_pin} followed by #
+
+For your guest:
+1) Dial into the conference bridge number {bridge_number}
+2) Input the guest pin {guest_pin} followed by #
+
+If you need further assistance feel free to reach out to me at: 
+
+nshipman@reliantsolutions.com
+
+Thanks,
+
+Norman Shipman 
+Internal Systems Administrator
+450 Seventh Ave, Suite 503
+New York, NY 10123  | O: 917-338-2200 Ext: 1278 | M: 347-551-4098
+New York, NY | Tallahassee, FL | Joao Pessoa, BR
+
+
