@@ -16,8 +16,9 @@ with open("phone_bridge.txt") as file:
 
 	template = file.read() 
 
-fromaddr = "internal.email.address@gmail.com"
+fromaddr = "internal.reliantsolutions@gmail.com"
 toaddr = raw_input('Enter employee\'s address: ')
+your_pwd = raw_input('Enter the password for YOUR internal email address: ') 
 
 msg = MIMEMultipart() 
 msg['From'] = "Reliant Internal Notification" 
@@ -38,7 +39,7 @@ msg.attach(MIMEText(body, 'plain'))
 
 server = smtplib.SMTP('smtp.gmail.com', 587) 
 server.starttls()
-server.login(fromaddr, "Password For Account") 
+server.login(fromaddr, your_pwd) 
 text = msg.as_string()
 server.sendmail(fromaddr, toaddr, text)
 print("Conference Bridge infromation has been sent successfully")

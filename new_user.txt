@@ -1,0 +1,67 @@
+
+Hello {employee_name}, 
+
+Welcome to Reliant Solutions! This email will cover the basics of setting up the following services: 
+1) Active Directory Credentials 
+2) Intermedia Email 
+3) Intermedia Phone 
+
+Active Directory Credentials
+
+login: {user_name}
+Temporary Password: {temp_pwd}
+
+Your Active Directory Credentials give you access to the following services:
+1) Internal WiFi 
+2) Company VPN 
+3) Access to Jump1 servers
+
+If you are in the office, change your password here: https://auth.reliantsec.net/
+After changing your password, log in with your new password to verify the change worked: https://auth.reliantsec.net/
+If you are not in the office, connect to the VPN first before changing your password.  
+Instructions to use the VPN may be found on our wiki.  You'll need to authenticate to the portal first:
+https://portal.reliant.io/
+Once authenticated access the wiki link:
+https://wiki.reliant.io/doku.php/services/accessing_reliant?s[]=remote
+To download and test the VPN client:
+ -  Use this link if inside the office at TLH or in Brazil (not nyc): https://remote.reliantsec.net/ 
+ -  Use this link if outside the office: https://108.27.36.18/global-protect/login.esp
+ -  If you are in NYC, tether from your phone or use non-office Internet and go to: https://108.27.36.18/global-protect/login.esp
+Do not forget to change your password from the temp password that was sent!
+Last thing: Your pw will expire in 90 days and our system does not currently offer a reminder.  Please set a reminder in your phone to reoccur every 84ish days so your account does not get locked and you will require someone to assist you.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Reliant Email 
+
+login: {user_name}@reliantsolutions.com 
+Temporary Password: {temp_pwd_2} 
+
+To access your email account, visit https://exchange.intermedia.net and select Webmail under the "For users" tab. 
+You should be prompted for a password reset. If you have not been prompted to reset your password, please reach out to me 
+and I can assist you with the process. 
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Reliant Phone and Webfax
+
+Phone Number: {phone_number}
+Extension: {ext} 
+WebFax Number: {webfax_number}
+Temporary Pin: {temp_pin} 
+
+To access your phone services, visit https://exchange.intermedia.net and select "Voice services". Enter your assigned phone 
+number and temporary pin to setup your voicemail, webfax and pin.  
+
+If you have any other questions please feel free to reach out me, and I can make time to assist you.
+If you are in the consulting, marketing or sales department please reach out to me so I can assign you
+a conference bridge information. 
+
+Best, 
+
+Norman Shipman 
+Internal Systems Administrator 
+
+Email: nshipman@reliantsolutions.com 
+Ext: 1278  
+  
